@@ -23,6 +23,7 @@ function clickItem(item, index) {
     activeItem = item;
     offsetMenuBorder(activeItem, menuBorder);
     
+	 
     
 }
 
